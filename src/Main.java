@@ -9,7 +9,6 @@ public class Main {
             }else {
                 System.out.print(a[i] + ",");
             }
-
         }
     }
 }
